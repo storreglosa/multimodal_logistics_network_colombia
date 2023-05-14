@@ -1,0 +1,17 @@
+# conda env create --file environment.yml
+# mamba env create --file environment.yml
+name: multimodal_logistics_network_colombia
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - seaborn
+  - numpy
+  - pandas
+  - jupyter
+  - jupyterlab
+  - pyprojroot
+  - pip
+  - python=3.7
