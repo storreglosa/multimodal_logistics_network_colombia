@@ -16,4 +16,5 @@ dependencies:
   - pyprojroot
   - nbdime
   - pip
+  - amplpy
   - python=3.7
