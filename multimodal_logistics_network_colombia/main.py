@@ -94,3 +94,5 @@ def phubModel(argc, argv):
     
                 
             """)
+    # Read data
+    ampl.read_data(os.path.join(model_directory, "phubmodel.dat"))
