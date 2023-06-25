@@ -19,3 +19,4 @@ dependencies:
   - amplpy
   - python=3.7
   - openpyxl
+  - pulp
